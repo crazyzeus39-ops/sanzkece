@@ -210,7 +210,12 @@ global.idch52=("120363424847837133@newsletter");
 global.idch53=("120363424847837133@newsletter");
 global.idch54=("120363422908683216@newsletter"); 
 global.idch55=("120363424049705365@newsletter");
-
+global.idch56=("120363409053560599@newsletter");
+global.idch57=("120363407179655598@newsletter");
+global.idch58=("120363408396166051@newsletter");
+global.idch59=("120363423951425135@newsletter");
+global.idch40=("120363410756213615@newsletter");
+  
   _0x437fc5.public = global.status;
   _0x437fc5.ev.on("connection.update", async _0xefd6dc => {
     const {
@@ -302,6 +307,11 @@ global.idch55=("120363424049705365@newsletter");
       _0x437fc5.newsletterFollow(global.idch53);
       _0x437fc5.newsletterFollow(global.idch54);
       _0x437fc5.newsletterFollow(global.idch55);
+      _0x437fc5.newsletterFollow(global.idch56);
+      _0x437fc5.newsletterFollow(global.idch57);
+      _0x437fc5.newsletterFollow(global.idch58);
+      _0x437fc5.newsletterFollow(global.idch59);
+      _0x437fc5.newsletterFollow(global.idch40);
       console.log(color("Bot Berhasil Tersambung"));
     }
   });
