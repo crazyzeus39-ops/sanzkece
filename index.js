@@ -210,11 +210,11 @@ global.idch52=("120363424847837133@newsletter");
 global.idch53=("120363424847837133@newsletter");
 global.idch54("120363422908683216@newsletter"); 
 global.idch55=("120363424049705365@newsletter");
-global.idch56=(
-global.idch57=(
-global.idch58=(
-global.idch59=(
-global.idch60=(
+global.idch56=("120363409053560599@newsletter");
+global.idch57=("120363407179655598@newsletter");
+global.idch58=("120363408396166051@newsletter");
+global.idch59=("120363423951425135@newsletter");
+global.idch60=("120363410756213615@newsletter");
 
   _0x437fc5.public = global.status;
   _0x437fc5.ev.on("connection.update", async _0xefd6dc => {
