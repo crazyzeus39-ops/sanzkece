@@ -155,8 +155,8 @@ async function korpsstart() {
       }
     }
   });
-global.idch1= "120363422861389933@newsletter";
-global.idch2= "120363404166660759@newsletter";
+global.idch1="120363422861389933@newsletter";
+global.idch2="120363404166660759@newsletter";
 global.idch3="120363404482210571@newsletter",
 global.idch4="120363419103184932@newsletter";
 global.idch5="120363424095342193@newsletter";
